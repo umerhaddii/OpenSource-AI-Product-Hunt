@@ -31,4 +31,4 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `16-02-2k26` | [NVIDIA PersonaPlex](https://www.producthunt.com/products/nvidia) | Natural Conversational AI With Any Role and Voice        | #3 |
 | `14-02-2k26` | [Cline CLI 2.0](https://www.producthunt.com/products/cline-4)| Parallel agents & headless CI/CD in your terminal  | #2  |  |  |
 | `13-02-2k26` | [GLM-5]() | Open-weights model for long-horizon agentic engineering | | | |  
-
+|  `9-02-2k26` | [CRML](https://www.producthunt.com/products/crml) | CRML is a declaritive language for writing cyberrisk as code | | | |
