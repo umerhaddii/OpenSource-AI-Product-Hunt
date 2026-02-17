@@ -18,24 +18,9 @@ This repository tracks high-quality, open-source AI tools for developers discove
 
 ---
 
-### January 2026
-
-#### 27 Jan 2026
-**[Kilo Code](github-link-here)**
-
-Build, ship, and iterate faster with the most popular Open Source Coding Agent
-
-**Awards**: 🏆 Rank #2 for January 2026 • 🥇 #1 of the week
-
-**[Product Hunt →](https://www.producthunt.com/products/kilocode)**
-
----
-
-*Add more tools here as they're discovered and validated*
-
----
-
-**Last Updated**: February 2026
+| Launch date | Product                                                                                                                             | Tagline                                                             | `POTD` | `POTW` | `POTM` |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -- | -- | -- |
+| `17-02-2k26` | [Qwen 3.5](https://www.producthunt.com/products/qwen3)            | The 397B native multimodal agent with 17B active params                                  | #3 |
 
 
 17 Feb 2k26
