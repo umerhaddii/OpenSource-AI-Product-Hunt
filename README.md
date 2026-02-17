@@ -18,6 +18,12 @@ This repository tracks high-quality, open-source AI tools for developers discove
 
 ---
 
+- `POTD` = Product of the Day
+- `POTW` = Product of the Week
+- `POTM` = Product of the Month
+
+---
+
 | Launch date | Product                                                                                                          | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -- | -- | -- |
 | `17-02-2k26` | [Qwen 3.5](https://www.producthunt.com/products/qwen3)            | The 397B native multimodal agent with 17B active params  |  |
