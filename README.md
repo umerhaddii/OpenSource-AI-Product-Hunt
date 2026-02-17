@@ -29,5 +29,5 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `17-02-2k26` | [Qwen 3.5](https://www.producthunt.com/products/qwen3)            | The 397B native multimodal agent with 17B active params  |  |
 | `17-02-2k26` | [MiniMax-M2.5](https://www.producthunt.com/products/minimax-m2-5) | Built for Real-World Productivity                        |  |  |  |
 | `16-02-2k26` | [NVIDIA PersonaPlex](https://www.producthunt.com/products/nvidia) | Natural Conversational AI With Any Role and Voice        | #3 |
-| `16-02-2k26` | [name]()            |                                 |  |  |  |
+| `14-02-2k26` | [Cline CLI 2.0](https://www.producthunt.com/products/cline-4)| Parallel agents & headless CI/CD in your terminal  | #2  |  |  |
 
