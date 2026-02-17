@@ -30,7 +30,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `17-02-2k26` | [MiniMax-M2.5](https://www.producthunt.com/products/minimax-m2-5) | Built for Real-World Productivity                        |  |  |  |
 | `16-02-2k26` | [NVIDIA PersonaPlex](https://www.producthunt.com/products/nvidia) | Natural Conversational AI With Any Role and Voice        | #3 |
 | `14-02-2k26` | [Cline CLI 2.0](https://www.producthunt.com/products/cline-4)| Parallel agents & headless CI/CD in your terminal  | #2  |  |  |
-| `14-02-2k26` | [OpenBug](https://www.producthunt.com/products/openbug) | Ticket in, fix out. Every solution trains the next one. | | | |
+| `14-02-2k26` | [OpenBug](https://www.producthunt.com/products/openbug) | Ticket in, fix out. Every solution trains the next one | | | |
 | `13-02-2k26` | [GLM-5]() | Open-weights model for long-horizon agentic engineering | | | |  
 | `09-02-2k26` | [CRML](https://www.producthunt.com/products/crml) | CRML is a declaritive language for writing cyberrisk as code | | | |
-
+| `27-01-2k26` | [Kilo Code Reviewer](https://www.producthunt.com/products/kilocode/launches/kilo-code-reviewer) | Automatic AI-powered code reviews the moment you open a PR | #1 | #1 | #2 |
