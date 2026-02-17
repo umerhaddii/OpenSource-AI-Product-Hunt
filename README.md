@@ -1,8 +1,8 @@
-# 🚀 Opensource AI ProductHunt
+#  Opensource AI ProductHunt
 
 A curated list of trending open-source AI developer tools from Product Hunt with 100+ upvotes.
 
-## 📋 About
+##  About
 
 This repository tracks high-quality, open-source AI tools for developers discovered on Product Hunt. All listed tools meet these criteria:
 - ✅ Open source with public repository
@@ -10,7 +10,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 - ✅ Tagged as "Developer Tools"
 - ✅ AI-focused or AI-enhanced
 
-## 🗂️ Tools by Date
+## Tools by Date
 
 ### February 2026
 
