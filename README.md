@@ -34,6 +34,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `13-02-2k26` | [GLM-5]() | Open-weights model for long-horizon agentic engineering | | | |  
 | `09-02-2k26` | [CRML](https://www.producthunt.com/products/crml) | CRML is a declaritive language for writing cyberrisk as code | | | |
 | `29-01-2k26` | [Meteroid](https://www.producthunt.com/products/meteroid-2) | Billing platform to launch, test, + scale business models | #4 | | |
+| `28-01-2k26` | [Kimi K2.5](https://www.producthunt.com/products/kimi-ai-assistant/launches/kimi-k2-5) | Native multimodal model with self-directed agent swarms | # | | |
 | `27-01-2k26` | [Kilo Code Reviewer](https://www.producthunt.com/products/kilocode/launches/kilo-code-reviewer)| Automatic AI-powered code reviews the moment you open a PR | #1 | #1 | #2 |
 | `25-01-2k26` | [Forums](https://www.producthunt.com/products/basehub/launches/forums) | AI-powered Q&A for GitHub repositories | #3 | | |
 | `23-01-2k26` | [nlsh](https://www.producthunt.com/products/nlsh) | talk to your terminal in natural language | #4 | | |
