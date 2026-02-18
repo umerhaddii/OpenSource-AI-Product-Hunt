@@ -39,6 +39,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `19-01-2k26` | [OS Ninja](https://www.producthunt.com/products/os-ninja) | Explore and learn open source using AI | #2 | | |
 | `17-01-2k26` | [Sled](https://www.producthunt.com/products/sled-voice-interface-for-claude-code) | Run your coding agent from your phone, with voice | #1 | | |
 | `16-01-2k26` | [TranslateGemma](https://www.producthunt.com/products/translategemma) | Open translation on Google models, supporting 55 languages | #3 | | |
+| `03-01-2k26` | [Ultracite v7](https://www.producthunt.com/products/ultracite/launches/ultracite-v7) | Opinionated, zero-config code linter and formatter | #3 | | |
 | `01-01-2k26` | [Qwen-Image-2512](https://www.producthunt.com/products/qwen3/launches/qwen-image-2512) | SOTA open-source T2I model with even greater realism | #2 | | |
 
 
