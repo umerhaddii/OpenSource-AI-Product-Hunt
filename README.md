@@ -36,5 +36,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `27-01-2k26` | [Kilo Code Reviewer](https://www.producthunt.com/products/kilocode/launches/kilo-code-reviewer)| Automatic AI-powered code reviews the moment you open a PR | #1 | #1 | #2 |
 | `19-01-2k26` | [OS Ninja](https://www.producthunt.com/products/os-ninja) | Explore and learn open source using AI | #2 | | |
 | `17-01-2k26` | [Sled](https://www.producthunt.com/products/sled-voice-interface-for-claude-code) | Run your coding agent from your phone, with voice | #1 | | |
+| `16-01-2k26` | [TranslateGemma](https://www.producthunt.com/products/translategemma) | Open translation on Google models, supporting 55 languages | #3 | | |
 | `01-01-2k26` | [Qwen-Image-2512](https://www.producthunt.com/products/qwen3/launches/qwen-image-2512) | SOTA open-source T2I model with even greater realism | #2 | | |
+
 
