@@ -34,6 +34,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `13-02-2k26` | [GLM-5]() | Open-weights model for long-horizon agentic engineering | | | |  
 | `09-02-2k26` | [CRML](https://www.producthunt.com/products/crml) | CRML is a declaritive language for writing cyberrisk as code | | | |
 | `27-01-2k26` | [Kilo Code Reviewer](https://www.producthunt.com/products/kilocode/launches/kilo-code-reviewer)| Automatic AI-powered code reviews the moment you open a PR | #1 | #1 | #2 |
+| `25-01-2k26` | [Forums](https://www.producthunt.com/products/basehub/launches/forums) | AI-powered Q&A for GitHub repositories | #3 | | |
 | `19-01-2k26` | [OS Ninja](https://www.producthunt.com/products/os-ninja) | Explore and learn open source using AI | #2 | | |
 | `17-01-2k26` | [Sled](https://www.producthunt.com/products/sled-voice-interface-for-claude-code) | Run your coding agent from your phone, with voice | #1 | | |
 | `16-01-2k26` | [TranslateGemma](https://www.producthunt.com/products/translategemma) | Open translation on Google models, supporting 55 languages | #3 | | |
