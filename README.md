@@ -36,6 +36,8 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `29-01-2k26` | [Meteroid](https://www.producthunt.com/products/meteroid-2) | Billing platform to launch, test, + scale business models | #4 | | |
 | `27-01-2k26` | [Kilo Code Reviewer](https://www.producthunt.com/products/kilocode/launches/kilo-code-reviewer)| Automatic AI-powered code reviews the moment you open a PR | #1 | #1 | #2 |
 | `25-01-2k26` | [Forums](https://www.producthunt.com/products/basehub/launches/forums) | AI-powered Q&A for GitHub repositories | #3 | | |
+| `23-01-2k26` | [nlsh](https://www.producthunt.com/products/nlsh) | talk to your terminal in natural language | #4 | | |
+| `21-01-2k26` | [FastMCP 3.0](https://www.producthunt.com/products/fastmcp) | The fast, Pythonic way to build MCP servers and clients | #5 | | |
 | `19-01-2k26` | [OS Ninja](https://www.producthunt.com/products/os-ninja) | Explore and learn open source using AI | #2 | | |
 | `17-01-2k26` | [Sled](https://www.producthunt.com/products/sled-voice-interface-for-claude-code) | Run your coding agent from your phone, with voice | #1 | | |
 | `16-01-2k26` | [TranslateGemma](https://www.producthunt.com/products/translategemma) | Open translation on Google models, supporting 55 languages | #3 | | |
