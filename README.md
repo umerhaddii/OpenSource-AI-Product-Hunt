@@ -42,6 +42,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `23-01-2k26` | [Qwen3-TTS](https://www.producthunt.com/products/qwen3/launches/qwen3-tts) | Voice design, cloning & 97ms streaming |  | | |
 | `22-01-2k26` | [Doclific](https://www.producthunt.com/products/doclific) | Documentation that lives with your code |  | | |
 | `21-01-2k26` | [FastMCP 3.0](https://www.producthunt.com/products/fastmcp) | The fast, Pythonic way to build MCP servers and clients | #5 | | |
+| `20-01-2k26` | [Translator](https://www.producthunt.com/products/translator-3) | Translate any video to 30+ languages with latest AI |  | | |
 | `20-01-2k26` | [MCPJam Inspector](https://www.producthunt.com/products/mcpjam-inspector) | Test + develop ChatGPT apps and MCP apps (ext-apps) locally |  | | |
 | `19-01-2k26` | [OS Ninja](https://www.producthunt.com/products/os-ninja) | Explore and learn open source using AI | #2 | | |
 | `17-01-2k26` | [Sled](https://www.producthunt.com/products/sled-voice-interface-for-claude-code) | Run your coding agent from your phone, with voice | #1 | | |
@@ -50,7 +51,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `08-01-2k26` | [Awesome Gemini Prompts](https://www.producthunt.com/products/awesome-gemini-prompts) | The Ultimate Open Source Library for Gemini & Nano |  | | |
 | `03-01-2k26` | [Ultracite v7](https://www.producthunt.com/products/ultracite/launches/ultracite-v7) | Opinionated, zero-config code linter and formatter | #3 | | |
 | `01-01-2k26` | [Qwen-Image-2512](https://www.producthunt.com/products/qwen3/launches/qwen-image-2512) | SOTA open-source T2I model with even greater realism | #2 | | |
-| `23-01-2k26` | [Preloop](https://www.producthunt.com/products/doclific) | The MCP Governance Layer |  | | |
+| `20-01-2k26` | [Translator](https://www.producthunt.com/products/translator-3) | Translate any video to 30+ languages with latest AI |  | | |
 
 
 
