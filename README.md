@@ -38,6 +38,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `27-01-2k26` | [Kilo Code Reviewer](https://www.producthunt.com/products/kilocode/launches/kilo-code-reviewer)| Automatic AI-powered code reviews the moment you open a PR | #1 | #1 | #2 |
 | `25-01-2k26` | [Forums](https://www.producthunt.com/products/basehub/launches/forums) | AI-powered Q&A for GitHub repositories | #3 | | |
 | `23-01-2k26` | [nlsh](https://www.producthunt.com/products/nlsh) | talk to your terminal in natural language | #4 | | |
+| `23-01-2k26` | [Preloop](https://www.producthunt.com/products/doclific) | The MCP Governance Layer |  | | |
 | `23-01-2k26` | [Qwen3-TTS](https://www.producthunt.com/products/qwen3/launches/qwen3-tts) | Voice design, cloning & 97ms streaming |  | | |
 | `22-01-2k26` | [Doclific](https://www.producthunt.com/products/doclific) | Documentation that lives with your code |  | | |
 | `21-01-2k26` | [FastMCP 3.0](https://www.producthunt.com/products/fastmcp) | The fast, Pythonic way to build MCP servers and clients | #5 | | |
@@ -49,7 +50,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `08-01-2k26` | [Awesome Gemini Prompts](https://www.producthunt.com/products/awesome-gemini-prompts) | The Ultimate Open Source Library for Gemini & Nano |  | | |
 | `03-01-2k26` | [Ultracite v7](https://www.producthunt.com/products/ultracite/launches/ultracite-v7) | Opinionated, zero-config code linter and formatter | #3 | | |
 | `01-01-2k26` | [Qwen-Image-2512](https://www.producthunt.com/products/qwen3/launches/qwen-image-2512) | SOTA open-source T2I model with even greater realism | #2 | | |
-| `22-01-2k26` | [Doclific](https://www.producthunt.com/products/doclific) | Documentation that lives with your code |  | | |
+| `23-01-2k26` | [Preloop](https://www.producthunt.com/products/doclific) | The MCP Governance Layer |  | | |
 
 
 
