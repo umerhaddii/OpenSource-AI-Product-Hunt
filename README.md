@@ -45,9 +45,10 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `17-01-2k26` | [Sled](https://www.producthunt.com/products/sled-voice-interface-for-claude-code) | Run your coding agent from your phone, with voice | #1 | | |
 | `16-01-2k26` | [TranslateGemma](https://www.producthunt.com/products/translategemma) | Open translation on Google models, supporting 55 languages | #3 | | |
 | `13-01-2k26` | [Voquill](https://www.producthunt.com/products/voquill/launches/voquill-2) | The open source WisprFlow alternative | #5 | | |
+| `08-01-2k26` | [Awesome Gemini Prompts](https://www.producthunt.com/products/awesome-gemini-prompts) | The Ultimate Open Source Library for Gemini & Nano |  | | |
 | `03-01-2k26` | [Ultracite v7](https://www.producthunt.com/products/ultracite/launches/ultracite-v7) | Opinionated, zero-config code linter and formatter | #3 | | |
 | `01-01-2k26` | [Qwen-Image-2512](https://www.producthunt.com/products/qwen3/launches/qwen-image-2512) | SOTA open-source T2I model with even greater realism | #2 | | |
-| `20-01-2k26` | [MCPJam Inspector](https://www.producthunt.com/products/mcpjam-inspector) | Test + develop ChatGPT apps and MCP apps (ext-apps) locally |  | | |
+| `08-01-2k26` | [Awesome Gemini Prompts](https://www.producthunt.com/products/awesome-gemini-prompts) | The Ultimate Open Source Library for Gemini & Nano |  | | |
 
 
 
