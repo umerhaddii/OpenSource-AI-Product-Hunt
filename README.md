@@ -27,7 +27,8 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | Launch date | Product                                                                                                          | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -- | -- | -- |
 | `18-02-26` | [ClawMetry for OpenClaw](https://www.producthunt.com/products/clawmetry)  | Real-time observability dashboard for OpenClaw AI agents  | #5 |  |  |
-| `17-02-26` | [Qwen 3.5](https://www.producthunt.com/products/qwen3)            | The 397B native multimodal agent with 17B active params  |  |  |  |
+| `18-02-26` | [OpenFlowKit](https://www.producthunt.com/products/openflowkit)   | 100% Free and Open Source Diagram Creator with Total Control  |  |  |  |
+| `17-02-26` | [Qwen 3.5](https://www.producthunt.com/products/qwen3)   | The 397B native multimodal agent with 17B active params  |  |  |  |
 | `17-02-26` | [MiniMax-M2.5](https://www.producthunt.com/products/minimax-m2-5) | Built for Real-World Productivity                        |  |  |  |
 | `16-02-26` | [NVIDIA PersonaPlex](https://www.producthunt.com/products/nvidia) | Natural Conversational AI With Any Role and Voice        | #3 |
 | `14-02-26` | [Cline CLI 2.0](https://www.producthunt.com/products/cline-4)| Parallel agents & headless CI/CD in your terminal  | #2  |  |  |
