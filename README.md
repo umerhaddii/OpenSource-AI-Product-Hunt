@@ -26,6 +26,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 
 | Launch date | Product                                                                                                          | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -- | -- | -- |
+| `19-02-26` | [Mengram](https://www.producthunt.com/products/mengram)  | AI memory API with 3 types: facts, events, and workflows  |  |  |  |
 | `19-02-26` | [Kollect Voice Agent](https://www.producthunt.com/products/kollect-voice-agent)  | AI that feels human  |  |  |  |
 | `18-02-26` | [ClawMetry for OpenClaw](https://www.producthunt.com/products/clawmetry)  | Real-time observability dashboard for OpenClaw AI agents  | #5 |  |  |
 | `18-02-26` | [OpenFlowKit](https://www.producthunt.com/products/openflowkit)   | 100% Free and Open Source Diagram Creator with Total Control  |  |  |  |
