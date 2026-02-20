@@ -26,6 +26,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 
 | Launch date | Product                                                                                                          | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -- | -- | -- |
+| `19-02-26` | [Kollect Voice Agent](https://www.producthunt.com/products/kollect-voice-agent)  | AI that feels human  |  |  |  |
 | `18-02-26` | [ClawMetry for OpenClaw](https://www.producthunt.com/products/clawmetry)  | Real-time observability dashboard for OpenClaw AI agents  | #5 |  |  |
 | `18-02-26` | [OpenFlowKit](https://www.producthunt.com/products/openflowkit)   | 100% Free and Open Source Diagram Creator with Total Control  |  |  |  |
 | `17-02-26` | [Qwen 3.5](https://www.producthunt.com/products/qwen3)   | The 397B native multimodal agent with 17B active params  |  |  |  |
