@@ -60,6 +60,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `01-01-26` | [Qwen-Image-2512](https://www.producthunt.com/products/qwen3/launches/qwen-image-2512) | SOTA open-source T2I model with even greater realism | #2 | | |
 | `30-12-25` | [Chatterbox Turbo](https://www.producthunt.com/products/resemble-clone/launches/chatterbox-turbo) | Fast, expressive, open source TTS with native watermarking | #5 | | |
 | `29-12-25` | [Giselle](https://www.producthunt.com/products/giselle) | Build and run AI workflows. Open source | #2 | #3 | |
+| `26-12-25` | [CrowdSynthetic](https://www.producthunt.com/products/crowdsynthetic-ai-crowd-safety) | Predict crowd congestion before it happens | | | |
 | `03-12-25` | [Mistral 3](https://www.producthunt.com/products/qwen3/launches/qwen-image-2512) | A family of frontier open-source multimodal models | #2 | | |
 | `03-12-25` | [Transformers v5](https://www.producthunt.com/products/hugging-face/launches/transformers-v5) | The backbone of modern AI, re-engineered | | | |
 | `02-12-25` | [DeepSeek-V3.2](https://www.producthunt.com/products/deepseek/launches/deepseek-v3-2-3) | Reasoning-first models built for agents | | | |
