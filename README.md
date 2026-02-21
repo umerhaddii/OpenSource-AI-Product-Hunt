@@ -58,6 +58,8 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `06-01-26` | [LFM2.5](https://www.producthunt.com/products/lfm2/launches/lfm2-5) | The next generation of on-device AI |  | | |
 | `03-01-26` | [Ultracite v7](https://www.producthunt.com/products/ultracite/launches/ultracite-v7) | Opinionated, zero-config code linter and formatter | #3 | | |
 | `01-01-26` | [Qwen-Image-2512](https://www.producthunt.com/products/qwen3/launches/qwen-image-2512) | SOTA open-source T2I model with even greater realism | #2 | | |
+| `02-12-25` | [DeepSeek-V3.2](https://www.producthunt.com/products/deepseek/launches/deepseek-v3-2-3) | Reasoning-first models built for agents | | | |
+| `03-12-25` | [Mistral 3](https://www.producthunt.com/products/qwen3/launches/qwen-image-2512) | A family of frontier open-source multimodal models | #2 | | |
 
 
 
