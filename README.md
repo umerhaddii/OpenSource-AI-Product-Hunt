@@ -66,10 +66,10 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `21-12-25` | [MiMo-V2-Flash](https://www.producthunt.com/products/mimo-3/launches/mimo-v2-flash) | Ultra-fast 309B MoE model for coding & agents | #3 | | |
 | `21-12-25` | [GetProfile](https://www.producthunt.com/products/getprofile-ai/launches/getprofile) | User profiles and long-term memory for your AI agents | #5 | | |
 | `19-12-25` | [SAM Audio](https://www.producthunt.com/products/meta/launches/sam-audio) | Segment any sound with text, visual, or time prompts | | | |
-| `18-12-25` | []() |  | | | |
-| `17-12-25` | []() |  | | | |
+| `17-12-25` | [Grov](https://www.producthunt.com/products/grov) | Make coding with AI multiplayer | | | |
 | `16-12-25` | []() |  | | | |
 | `15-12-25` | []() |  | | | |
+| `14-12-25` | []() |  | | | |
 | `03-12-25` | [Mistral 3](https://www.producthunt.com/products/qwen3/launches/qwen-image-2512) | A family of frontier open-source multimodal models | #2 | | |
 | `03-12-25` | [Transformers v5](https://www.producthunt.com/products/hugging-face/launches/transformers-v5) | The backbone of modern AI, re-engineered | | | |
 | `02-12-25` | [DeepSeek-V3.2](https://www.producthunt.com/products/deepseek/launches/deepseek-v3-2-3) | Reasoning-first models built for agents | | | |
