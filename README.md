@@ -63,7 +63,8 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `26-12-25` | [CrowdSynthetic](https://www.producthunt.com/products/crowdsynthetic-ai-crowd-safety) | Predict crowd congestion before it happens | | | |
 | `24-12-25` | [A2UI](https://www.producthunt.com/products/google/launches/a2ui) | A safe way for AI to build UIs your app can render | #4 | | |
 | `22-12-25` | [Qwen-Image-Layered](https://www.producthunt.com/products/qwen3/launches/qwen-image-layered) | Turn flat images into multi-layer editable assets | #4 | | |
-| `21-12-25` | []() |  | | | |
+| `21-12-25` | [MiMo-V2-Flash](https://www.producthunt.com/products/mimo-3/launches/mimo-v2-flash) | Ultra-fast 309B MoE model for coding & agents | #3 | | |
+| `21-12-25` | [GetProfile](https://www.producthunt.com/products/getprofile-ai/launches/getprofile) | User profiles and long-term memory for your AI agents | #5 | | |
 | `03-12-25` | [Mistral 3](https://www.producthunt.com/products/qwen3/launches/qwen-image-2512) | A family of frontier open-source multimodal models | #2 | | |
 | `03-12-25` | [Transformers v5](https://www.producthunt.com/products/hugging-face/launches/transformers-v5) | The backbone of modern AI, re-engineered | | | |
 | `02-12-25` | [DeepSeek-V3.2](https://www.producthunt.com/products/deepseek/launches/deepseek-v3-2-3) | Reasoning-first models built for agents | | | |
