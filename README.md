@@ -68,7 +68,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `19-12-25` | [SAM Audio](https://www.producthunt.com/products/meta/launches/sam-audio) | Segment any sound with text, visual, or time prompts | | | |
 | `17-12-25` | [Grov](https://www.producthunt.com/products/grov) | Make coding with AI multiplayer | | | |
 | `16-12-25` | [xPrivo](https://www.producthunt.com/products/xprivo) | Open Source, Free Anonymous AI Chat - Ready to Run Locally | | | |
-| `15-12-25` | []() |  | | | |
+| `16-12-25` | [Stakpak 3.0 CLI](https://www.producthunt.com/products/stakpak-dev/launches/stakpak-3-0-cli) | Open source DevOps agent for devs who just want to ship | | | |
 | `14-12-25` | []() |  | | | |
 | `03-12-25` | [Mistral 3](https://www.producthunt.com/products/qwen3/launches/qwen-image-2512) | A family of frontier open-source multimodal models | #2 | | |
 | `03-12-25` | [Transformers v5](https://www.producthunt.com/products/hugging-face/launches/transformers-v5) | The backbone of modern AI, re-engineered | | | |
