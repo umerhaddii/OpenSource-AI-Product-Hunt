@@ -67,7 +67,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `21-12-25` | [GetProfile](https://www.producthunt.com/products/getprofile-ai/launches/getprofile) | User profiles and long-term memory for your AI agents | #5 | | |
 | `19-12-25` | [SAM Audio](https://www.producthunt.com/products/meta/launches/sam-audio) | Segment any sound with text, visual, or time prompts | | | |
 | `17-12-25` | [Grov](https://www.producthunt.com/products/grov) | Make coding with AI multiplayer | | | |
-| `16-12-25` | []() |  | | | |
+| `16-12-25` | [xPrivo](https://www.producthunt.com/products/xprivo) | Open Source, Free Anonymous AI Chat - Ready to Run Locally | | | |
 | `15-12-25` | []() |  | | | |
 | `14-12-25` | []() |  | | | |
 | `03-12-25` | [Mistral 3](https://www.producthunt.com/products/qwen3/launches/qwen-image-2512) | A family of frontier open-source multimodal models | #2 | | |
