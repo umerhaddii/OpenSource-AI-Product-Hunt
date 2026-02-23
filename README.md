@@ -1,5 +1,8 @@
 #  Opensource AI ProductHunt
 
+<img width="1536" height="1024" alt="ChatGPT Image Feb 23, 2026, 12_50_06 PM" src="https://github.com/user-attachments/assets/ba2572bd-f4d3-44b3-a0b2-2ba0e7ed7a01" />
+
+
 A curated list of trending open-source AI developer tools from Product Hunt with 100+ upvotes.
 
 ##  About
