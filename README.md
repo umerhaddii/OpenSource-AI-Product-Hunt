@@ -71,8 +71,8 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `16-12-25` | [Stakpak 3.0 CLI](https://www.producthunt.com/products/stakpak-dev/launches/stakpak-3-0-cli) | Open source DevOps agent for devs who just want to ship | | | |
 | `10-12-25` | [Devstral 2](https://www.producthunt.com/products/mistral-7b/launches/devstral-2) | https://www.producthunt.com/products/mistral-7b/launches/devstral-2 | | | |
 | `09-12-25` | [GLM-4.6V](https://www.producthunt.com/products/z-ai/launches/glm-4-6v) | Open-source multimodal model with native tool use | #4 | | |
-| `-12-25` | []() |  | | | |
-| `-12-25` | []() |  | | | |
+| `04-12-25` | [Claude-Mem](https://www.producthunt.com/products/claude-mem) | An AI that takes notes on other AI's work in real-time | | | |
+| `04-12-25` | []() |  | | | |
 | `-12-25` | []() |  | | | |
 | `03-12-25` | [Mistral 3](https://www.producthunt.com/products/qwen3/launches/qwen-image-2512) | A family of frontier open-source multimodal models | #2 | | |
 | `03-12-25` | [Transformers v5](https://www.producthunt.com/products/hugging-face/launches/transformers-v5) | The backbone of modern AI, re-engineered | | | |
