@@ -69,7 +69,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `17-12-25` | [Grov](https://www.producthunt.com/products/grov) | Make coding with AI multiplayer | | | |
 | `16-12-25` | [xPrivo](https://www.producthunt.com/products/xprivo) | Open Source, Free Anonymous AI Chat - Ready to Run Locally | | | |
 | `16-12-25` | [Stakpak 3.0 CLI](https://www.producthunt.com/products/stakpak-dev/launches/stakpak-3-0-cli) | Open source DevOps agent for devs who just want to ship | | | |
-| `10-12-25` | [Devstral 2](https://www.producthunt.com/products/mistral-7b/launches/devstral-2) | https://www.producthunt.com/products/mistral-7b/launches/devstral-2 | | | |
+| `10-12-25` | [Devstral 2](https://www.producthunt.com/products/mistral-7b/launches/devstral-2) | SOTA open-source agentic coding models and CLI agent | | | |
 | `09-12-25` | [GLM-4.6V](https://www.producthunt.com/products/z-ai/launches/glm-4-6v) | Open-source multimodal model with native tool use | #4 | | |
 | `04-12-25` | [Claude-Mem](https://www.producthunt.com/products/claude-mem) | An AI that takes notes on other AI's work in real-time | | | |
 | `03-12-25` | [Mistral 3](https://www.producthunt.com/products/qwen3/launches/qwen-image-2512) | A family of frontier open-source multimodal models | #2 | | |
