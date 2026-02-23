@@ -70,7 +70,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `16-12-25` | [xPrivo](https://www.producthunt.com/products/xprivo) | Open Source, Free Anonymous AI Chat - Ready to Run Locally | | | |
 | `16-12-25` | [Stakpak 3.0 CLI](https://www.producthunt.com/products/stakpak-dev/launches/stakpak-3-0-cli) | Open source DevOps agent for devs who just want to ship | | | |
 | `10-12-25` | [Devstral 2](https://www.producthunt.com/products/mistral-7b/launches/devstral-2) | https://www.producthunt.com/products/mistral-7b/launches/devstral-2 | | | |
-| `-12-25` | []() |  | | | |
+| `09-12-25` | [GLM-4.6V](https://www.producthunt.com/products/z-ai/launches/glm-4-6v) | Open-source multimodal model with native tool use | #4 | | |
 | `-12-25` | []() |  | | | |
 | `-12-25` | []() |  | | | |
 | `-12-25` | []() |  | | | |
