@@ -80,7 +80,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `02-12-25` | [DeepSeek-V3.2](https://www.producthunt.com/products/deepseek/launches/deepseek-v3-2-3) | Reasoning-first models built for agents | | | |
 | `28-11-25` | [Agenta](https://www.producthunt.com/products/agenta) | Open-source prompt management & evals for AI teams | #2 | | |
 | `24-11-25` | [Container Diet](https://www.producthunt.com/products/container-diet) | Slim down your Docker images with AI-powered sass | | | |
-| `-11-25` | []() |  | | | |
+| `23-11-25` | [Code Mode](https://www.producthunt.com/products/utcp/launches/code-mode) | Slash MCP token usage by 68% | | | |
 | `-11-25` | []() |  | | | |
 | `-11-25` | []() |  | | | |
 | `-11-25` | []() |  | | | |
