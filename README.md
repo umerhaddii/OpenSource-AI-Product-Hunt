@@ -78,7 +78,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `03-12-25` | [Mistral 3](https://www.producthunt.com/products/qwen3/launches/qwen-image-2512) | A family of frontier open-source multimodal models | #2 | | |
 | `03-12-25` | [Transformers v5](https://www.producthunt.com/products/hugging-face/launches/transformers-v5) | The backbone of modern AI, re-engineered | | | |
 | `02-12-25` | [DeepSeek-V3.2](https://www.producthunt.com/products/deepseek/launches/deepseek-v3-2-3) | Reasoning-first models built for agents | | | |
-| `28-10-25` | [Agenta](https://www.producthunt.com/products/agenta) | Open-source prompt management & evals for AI teams | | | |
+| `28-10-25` | [Agenta](https://www.producthunt.com/products/agenta) | Open-source prompt management & evals for AI teams | #2 | | |
 | `-11-25` | []() |  | | | |
 | `-11-25` | []() |  | | | |
 | `-11-25` | []() |  | | | |
