@@ -86,8 +86,8 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `07-11-25` | [BlogBowl](https://www.producthunt.com/products/blogbowl-4) | Keyword‑driven AI articles auto‑posted to your blog | #1 | #2 | |
 | `07-11-25` | [Secure MCP Framework by Arcade.dev](https://www.producthunt.com/products/secure-mcp-framework) | Skip migration and launch MCP with built-in Auth | #3 | | |
 | `07-11-25` | [Layrr](https://www.producthunt.com/products/layrr) | Framer for your actual codebase | #4 | | |
-| `07-11-25` | [Kimi K2 Thinking]() |  | | | |
-| `07-11-25` | [Noco Base 2.0]() |  | | | |
+| `07-11-25` | [Kimi K2 Thinking](https://www.producthunt.com/products/kimi-ai-assistant/launches/kimi-k2-thinking) | The 1T Parameters Open-Source Thinking Model - SOTA on HLE | #5 | | |
+| `07-11-25` | [Noco Base 2.0](https://www.producthunt.com/products/nocobase/launches/nocobase-2-0) | Model your data, then build apps with blocks and actions | | | |
 | `-11-25` | []() |  | | | |
 | `-11-25` | []() |  | | | |
 | `-11-25` | []() |  | | | |
