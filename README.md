@@ -83,7 +83,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `23-11-25` | [Code Mode](https://www.producthunt.com/products/utcp/launches/code-mode) | Slash MCP token usage by 68% | | | |
 | `11-11-25` | [Omnilingual ASR](https://www.producthunt.com/products/meta/launches/omnilingual-asr) | Advancing automatic speech recognition for 1,600+ languages | | | |
 | `10-11-25` | [Lumi](https://www.producthunt.com/products/google/launches/lumi-10) | Read smarter, not harder | | | |
-| `-11-25` | []() |  | | | |
+| `07-11-25` | [BlogBowl](https://www.producthunt.com/products/blogbowl-4) | Keyword‑driven AI articles auto‑posted to your blog | #1 | #2 | |
 | `-11-25` | []() |  | | | |
 | `-11-25` | []() |  | | | |
 | `-11-25` | []() |  | | | |
