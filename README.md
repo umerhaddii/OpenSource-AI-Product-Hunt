@@ -85,9 +85,9 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `10-11-25` | [Lumi](https://www.producthunt.com/products/google/launches/lumi-10) | Read smarter, not harder | | | |
 | `07-11-25` | [BlogBowl](https://www.producthunt.com/products/blogbowl-4) | Keyword‑driven AI articles auto‑posted to your blog | #1 | #2 | |
 | `07-11-25` | [Secure MCP Framework by Arcade.dev](https://www.producthunt.com/products/secure-mcp-framework) | Skip migration and launch MCP with built-in Auth | #3 | | |
-| `-11-25` | []() |  | | | |
-| `-11-25` | []() |  | | | |
-| `-11-25` | []() |  | | | |
+| `07-11-25` | [Layrr](https://www.producthunt.com/products/layrr) | Framer for your actual codebase | #4 | | |
+| `07-11-25` | []() |  | | | |
+| `07-11-25` | []() |  | | | |
 | `-11-25` | []() |  | | | |
 | `-11-25` | []() |  | | | |
 | `-11-25` | []() |  | | | |
