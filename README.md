@@ -94,7 +94,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `04-11-25` | [MCP Playground](https://www.producthunt.com/products/mcp-playground) | Open-source MCP playground to test and introspect servers | | | |
 | `31-10-25` | [Skyvern](https://www.producthunt.com/products/skyvern/launches/skyvern-8fa4b8bf-0253-46d3-b4bc-63bd0a92f2c1) | Automate anything in the browser | | | |
 | `29-10-25` | [Parallax by Gradient](https://www.producthunt.com/products/parallax-by-gradient) | Host LLMs across devices sharing GPU to make your AI go brrr | | | |
-| `-10-25` | []() |  | | | |
+| `26-10-25` | [Kodus](https://www.producthunt.com/products/kodus) | Open-source AI Code Review that won’t let you break prod | | | |
 | `-10-25` | []() |  | | | |
 | `-10-25` | []() |  | | | |
 | `-10-25` | []() |  | | | |
