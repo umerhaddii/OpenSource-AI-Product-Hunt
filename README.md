@@ -91,13 +91,13 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `06-11-25` | [Helicone.ai](https://www.producthunt.com/products/helicone-ai/launches/helicone-ai-2) | The open-source AI gateway for AI-native startups | | | |
 | `06-11-25` | [Packmind Open Source](https://www.producthunt.com/products/packmind-open-source) | Roll out coding standards safely across repos and agents | | | |
 | `06-11-25` | [agor](https://www.producthunt.com/products/agor) | Orchestrate multiple AI coding agents with your team | | | |
-| `06-11-25` | []() |  | | | |
-| `06-11-25` | []() |  | | | |
-| `06-11-25` | []() |  | | | |
-| `06-11-25` | []() |  | | | |
-| `06-11-25` | []() |  | | | |
-| `06-11-25` | []() |  | | | |
-| `06-11-25` | []() |  | | | |
+| `04-11-25` | [MCP Playground](https://www.producthunt.com/products/mcp-playground) | Open-source MCP playground to test and introspect servers | | | |
+| `0-11-25` | []() |  | | | |
+| `0-11-25` | []() |  | | | |
+| `0-11-25` | []() |  | | | |
+| `0-11-25` | []() |  | | | |
+| `0-11-25` | []() |  | | | |
+| `0-11-25` | []() |  | | | |
 
 
 > Want to Contribute? See here: [CONTRIBUTING.md](https://github.com/umerhaddii/OpenSource-AI-Product-Hunt/blob/main/CONTRIBUTING.md)
