@@ -88,9 +88,16 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `07-11-25` | [Layrr](https://www.producthunt.com/products/layrr) | Framer for your actual codebase | #4 | | |
 | `07-11-25` | [Kimi K2 Thinking](https://www.producthunt.com/products/kimi-ai-assistant/launches/kimi-k2-thinking) | The 1T Parameters Open-Source Thinking Model - SOTA on HLE | #5 | | |
 | `07-11-25` | [Noco Base 2.0](https://www.producthunt.com/products/nocobase/launches/nocobase-2-0) | Model your data, then build apps with blocks and actions | | | |
-| `-11-25` | []() |  | | | |
-| `-11-25` | []() |  | | | |
-| `-11-25` | []() |  | | | |
+| `06-11-25` | [Helicone.ai](https://www.producthunt.com/products/helicone-ai/launches/helicone-ai-2) | The open-source AI gateway for AI-native startups | | | |
+| `06-11-25` | []() |  | | | |
+| `06-11-25` | []() |  | | | |
+| `06-11-25` | []() |  | | | |
+| `06-11-25` | []() |  | | | |
+| `06-11-25` | []() |  | | | |
+| `06-11-25` | []() |  | | | |
+| `06-11-25` | []() |  | | | |
+| `06-11-25` | []() |  | | | |
+| `06-11-25` | []() |  | | | |
 
 
 > Want to Contribute? See here: [CONTRIBUTING.md](https://github.com/umerhaddii/OpenSource-AI-Product-Hunt/blob/main/CONTRIBUTING.md)
