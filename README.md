@@ -40,6 +40,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `14-02-26` | [OpenBug](https://www.producthunt.com/products/openbug) | Ticket in, fix out. Every solution trains the next one | | | |
 | `13-02-26` | [GLM-5]() | Open-weights model for long-horizon agentic engineering | | | |  
 | `09-02-26` | [CRML](https://www.producthunt.com/products/crml) | CRML is a declaritive language for writing cyberrisk as code | | | |
+
 | `29-01-26` | [Meteroid](https://www.producthunt.com/products/meteroid-2) | Billing platform to launch, test, + scale business models | #4 | | |
 | `28-01-26` | [Kimi K2.5](https://www.producthunt.com/products/kimi-ai-assistant/launches/kimi-k2-5) | Native multimodal model with self-directed agent swarms | # | | |
 | `27-01-26` | [Kilo Code Reviewer](https://www.producthunt.com/products/kilocode/launches/kilo-code-reviewer)| Automatic AI-powered code reviews the moment you open a PR | #1 | #1 | #2 |
@@ -92,7 +93,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `06-11-25` | [Packmind Open Source](https://www.producthunt.com/products/packmind-open-source) | Roll out coding standards safely across repos and agents | | | |
 | `06-11-25` | [agor](https://www.producthunt.com/products/agor) | Orchestrate multiple AI coding agents with your team | | | |
 | `04-11-25` | [MCP Playground](https://www.producthunt.com/products/mcp-playground) | Open-source MCP playground to test and introspect servers | | | |
-| `0-10-25` | []() |  | | | |
+| `31-10-25` | [Skyvern](https://www.producthunt.com/products/skyvern/launches/skyvern-8fa4b8bf-0253-46d3-b4bc-63bd0a92f2c1) | Automate anything in the browser | | | |
 | `0-10-25` | []() |  | | | |
 | `0-10-25` | []() |  | | | |
 | `0-10-25` | []() |  | | | |
