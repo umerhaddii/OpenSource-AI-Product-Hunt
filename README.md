@@ -100,8 +100,8 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `23-10-25` | [Trigger.dev v4](https://www.producthunt.com/products/trigger-dev/launches/trigger-dev-v4) | Build and deploy fully‑managed AI agents and workflows | | | |
 | `22-10-25` | [Metorial](https://www.producthunt.com/products/metorial/launches/metorial) | Connect your AI products to 600+ integrations in minutes | | | |
 | `22-10-25` | [Deta Surf (Beta)](https://www.producthunt.com/products/deta/launches/deta-surf-beta) | AI Notebooks for the internet (Open Source) | | | |
-| `-10-25` | []() |  | | | |
-| `-10-25` | []() |  | | | |
+| `21-10-25` | [RightNow CLI](https://www.producthunt.com/products/rightnow-ai/launches/rightnow-cli) | Claude Code for CUDA, an open-source AI CLI for GPU devs | | | |
+| `21-10-25` | []() |  | | | |
 | `-10-25` | []() |  | | | |
 | `-10-25` | []() |  | | | |
 | `-10-25` | []() |  | | | |
