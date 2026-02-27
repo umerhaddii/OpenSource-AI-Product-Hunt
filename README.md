@@ -102,8 +102,8 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `22-10-25` | [Deta Surf (Beta)](https://www.producthunt.com/products/deta/launches/deta-surf-beta) | AI Notebooks for the internet (Open Source) | | | |
 | `21-10-25` | [RightNow CLI](https://www.producthunt.com/products/rightnow-ai/launches/rightnow-cli) | Claude Code for CUDA, an open-source AI CLI for GPU devs | | | |
 | `21-10-25` | [DeepSeek-OCR](https://www.producthunt.com/products/deepseek/launches/deepseek-ocr) | Read documents like an image | #4 | | |
-| `-10-25` | []() |  | | | |
-| `-10-25` | []() |  | | | |
+| `17-10-25` | [Zed for Windows](https://www.producthunt.com/products/zed/launches/zed-for-windows) | Ultra‑native Windows editor with WSL, extensions, and AI | | | |
+| `17-10-25` | []() |  | | | |
 | `-10-25` | []() |  | | | |
 | `-10-25` | []() |  | | | |
 | `-10-25` | []() |  | | | |
