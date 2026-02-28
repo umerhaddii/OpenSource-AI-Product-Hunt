@@ -104,8 +104,8 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `21-10-25` | [DeepSeek-OCR](https://www.producthunt.com/products/deepseek/launches/deepseek-ocr) | Read documents like an image | #4 | | |
 | `17-10-25` | [Zed for Windows](https://www.producthunt.com/products/zed/launches/zed-for-windows) | Ultra‑native Windows editor with WSL, extensions, and AI | | | |
 | `17-10-25` | [HuggingChat](https://www.producthunt.com/products/hugging-face/launches/huggingchat-2) | The smart router for open-source models | | | |
-| `-10-25` | []() |  | | | |
-| `-10-25` | []() |  | | | |
+| `14-10-25` | [n8n AI Workflow Builder](https://www.producthunt.com/products/n8n-io/launches/n8n-ai-workflow-builder) | Build AI automations & agents using natural language | | | |
+| `14-10-25` | [nanochat](https://www.producthunt.com/products/nanochat) | Build your own ChatGPT for $100 on a single GPU | | | |
 | `-10-25` | []() |  | | | |
 | `-10-25` | []() |  | | | |
 
