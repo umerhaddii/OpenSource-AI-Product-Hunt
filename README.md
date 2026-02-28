@@ -107,7 +107,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `14-10-25` | [n8n AI Workflow Builder](https://www.producthunt.com/products/n8n-io/launches/n8n-ai-workflow-builder) | Build AI automations & agents using natural language | #1 | #5 | |
 | `14-10-25` | [nanochat](https://www.producthunt.com/products/nanochat) | Build your own ChatGPT for $100 on a single GPU | | | |
 | `10-10-25` | [OpenLIT's Zero-code LLM Observability](https://www.producthunt.com/products/openlit/launches/openlit-s-zero-code-llm-observability) | Trace LLM requests + costs with OpenTelemetry monitoring | | | |
-| `-10-25` | []() |  | | | |
+| `07-10-25` | [Crazzy](https://www.producthunt.com/products/crazzy-2) | Open Source Lovable for Flutter Apps | | | |
 | `-10-25` | []() |  | | | |
 | `-10-25` | []() |  | | | |
 | `-10-25` | []() |  | | | |
