@@ -108,7 +108,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `14-10-25` | [nanochat](https://www.producthunt.com/products/nanochat) | Build your own ChatGPT for $100 on a single GPU | | | |
 | `10-10-25` | [OpenLIT's Zero-code LLM Observability](https://www.producthunt.com/products/openlit/launches/openlit-s-zero-code-llm-observability) | Trace LLM requests + costs with OpenTelemetry monitoring | | | |
 | `07-10-25` | [Crazzy](https://www.producthunt.com/products/crazzy-2) | Open Source Lovable for Flutter Apps | | | |
-| `-09-25` | []() |  | | | |
+| `30-09-25` | [DeepSeek-V3.2-Exp](https://www.producthunt.com/products/deepseek/launches/deepseek-v3-2-exp) | Long-context efficiency with DeepSeek Sparse Attention | | | |
 | `-09-25` | []() |  | | | |
 | `-09-25` | []() |  | | | |
 | `-09-25` | []() |  | | | |
