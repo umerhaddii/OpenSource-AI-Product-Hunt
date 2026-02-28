@@ -108,11 +108,11 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `14-10-25` | [nanochat](https://www.producthunt.com/products/nanochat) | Build your own ChatGPT for $100 on a single GPU | | | |
 | `10-10-25` | [OpenLIT's Zero-code LLM Observability](https://www.producthunt.com/products/openlit/launches/openlit-s-zero-code-llm-observability) | Trace LLM requests + costs with OpenTelemetry monitoring | | | |
 | `07-10-25` | [Crazzy](https://www.producthunt.com/products/crazzy-2) | Open Source Lovable for Flutter Apps | | | |
-| `-10-25` | []() |  | | | |
-| `-10-25` | []() |  | | | |
-| `-10-25` | []() |  | | | |
-| `-10-25` | []() |  | | | |
-| `-10-25` | []() |  | | | |
+| `-09-25` | []() |  | | | |
+| `-09-25` | []() |  | | | |
+| `-09-25` | []() |  | | | |
+| `-09-25` | []() |  | | | |
+| `-09-25` | []() |  | | | |
 
 
 > Want to Contribute? See here: [CONTRIBUTING.md](https://github.com/umerhaddii/OpenSource-AI-Product-Hunt/blob/main/CONTRIBUTING.md)
