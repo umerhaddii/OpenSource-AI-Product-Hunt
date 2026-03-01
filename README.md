@@ -112,6 +112,22 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `28-09-25` | [Kilo Code for JetBrains](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-jetbrains) | Fast, open-source AI coding agent for JetBrains IDEs | #1 | | |
 | `28-09-25` | [VibeSDK by CloudFlare](https://www.producthunt.com/products/vibesdk-by-cloudflare) | Deploy your AI vibe coding platform on Cloudflare in 1 click | | | |
 | `25-09-25` | [Myop](https://www.producthunt.com/products/myop) | Plug AI-generated code into live software safely | | | |
+| `23-09-25` | [DeepSeek-V3.1-Terminus](https://www.producthunt.com/products/deepseek/launches/deepseek-v3-1-terminus) | A refined agentic model for developers | | | 
+| `-09-25` | []() |  | | | |
+| `-09-25` | []() |  | | | |
+| `-09-25` | []() |  | | | |
+| `-09-25` | []() |  | | | |
+| `-09-25` | []() |  | | | |
+| `-09-25` | []() |  | | | |
+| `-09-25` | []() |  | | | |
+| `-09-25` | []() |  | | | |
+| `-09-25` | []() |  | | | ||
+| `-09-25` | []() |  | | | |
+| `-09-25` | []() |  | | | |
+| `-09-25` | []() |  | | | |
+| `-09-25` | []() |  | | | |
+| `-09-25` | []() |  | | | |
+| `-09-25` | []() |  | | | |
 | `-09-25` | []() |  | | | |
 
 
