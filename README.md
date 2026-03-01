@@ -109,8 +109,8 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `10-10-25` | [OpenLIT's Zero-code LLM Observability](https://www.producthunt.com/products/openlit/launches/openlit-s-zero-code-llm-observability) | Trace LLM requests + costs with OpenTelemetry monitoring | | | |
 | `07-10-25` | [Crazzy](https://www.producthunt.com/products/crazzy-2) | Open Source Lovable for Flutter Apps | | | |
 | `30-09-25` | [DeepSeek-V3.2-Exp](https://www.producthunt.com/products/deepseek/launches/deepseek-v3-2-exp) | Long-context efficiency with DeepSeek Sparse Attention | | | |
-| `-09-25` | []() |  | | | |
-| `-09-25` | []() |  | | | |
+| `28-09-25` | [Kilo Code for JetBrains](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-jetbrains) | Fast, open-source AI coding agent for JetBrains IDEs | #1 | | |
+| `28-09-25` | [VibeSDK by CloudFlare](https://www.producthunt.com/products/vibesdk-by-cloudflare) | Deploy your AI vibe coding platform on Cloudflare in 1 click | | | |
 | `-09-25` | []() |  | | | |
 | `-09-25` | []() |  | | | |
 
