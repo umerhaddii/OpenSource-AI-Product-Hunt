@@ -113,8 +113,8 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `28-09-25` | [VibeSDK by CloudFlare](https://www.producthunt.com/products/vibesdk-by-cloudflare) | Deploy your AI vibe coding platform on Cloudflare in 1 click | | | |
 | `25-09-25` | [Myop](https://www.producthunt.com/products/myop) | Plug AI-generated code into live software safely | | | |
 | `23-09-25` | [DeepSeek-V3.1-Terminus](https://www.producthunt.com/products/deepseek/launches/deepseek-v3-1-terminus) | A refined agentic model for developers | | | 
-| `-09-25` | []() |  | | | |
-| `-09-25` | []() |  | | | |
+| `23-09-25` | [ToolJet](https://www.producthunt.com/products/tooljet-2/launches/tooljet-3) | AI agents that build full-stack internal tools for you | | | |
+| `23-09-25` | []() |  | | | |
 | `-09-25` | []() |  | | | |
 | `-09-25` | []() |  | | | |
 | `-09-25` | []() |  | | | |
