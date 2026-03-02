@@ -120,14 +120,14 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `10-09-25` | [ROMA](https://www.producthunt.com/products/roma) | The backbone for open-source meta-agents | | | |
 | `09-09-25` | [Gram by Speakeasy](https://www.producthunt.com/products/speakeasy-3/launches/gram-by-speakeasy-2) | Instantly create MCP servers and SDKs that LLMs understand | #5 | | |
 | `09-09-25` | [MiniCPM 4.1](https://www.producthunt.com/products/minicpm-4-0/launches/minicpm-4-1) | The on-device model for your personal data | | | |
-| `-09-25` | []() |  | | | ||
-| `-09-25` | []() |  | | | |
-| `-09-25` | []() |  | | | |
-| `-09-25` | []() |  | | | |
-| `-09-25` | []() |  | | | |
-| `-09-25` | []() |  | | | |
-| `-09-25` | []() |  | | | |
-| `-09-25` | []() |  | | | |
+| `-08-25` | []() |  | | | ||
+| `-08-25` | []() |  | | | |
+| `-08-25` | []() |  | | | |
+| `-08-25` | []() |  | | | |
+| `-08-25` | []() |  | | | |
+| `-08-25` | []() |  | | | |
+| `-08-25` | []() |  | | | |
+| `-08-25` | []() |  | | | |
 
 
 > Want to Contribute? See here: [CONTRIBUTING.md](https://github.com/umerhaddii/OpenSource-AI-Product-Hunt/blob/main/CONTRIBUTING.md)
