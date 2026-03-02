@@ -116,7 +116,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `23-09-25` | [ToolJet](https://www.producthunt.com/products/tooljet-2/launches/tooljet-3) | AI agents that build full-stack internal tools for you | | | |
 | `23-09-25` | [Onyx](https://www.producthunt.com/products/onyx-8) | The open source AI teammate you've dreamed of | | | |
 | `23-09-25` | [Qwen3-Omni](https://www.producthunt.com/products/qwen3/launches/qwen3-omni) | Native end-to-end multilingual omni-modal LLM | | | |
-| `-09-25` | []() |  | | | |
+| `15-09-25` | [tambo](https://www.producthunt.com/products/tambo) | An AI orchestration framework for React. Open-source | #5 | | |
 | `-09-25` | []() |  | | | |
 | `-09-25` | []() |  | | | |
 | `-09-25` | []() |  | | | |
