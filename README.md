@@ -117,7 +117,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `23-09-25` | [Qwen3-Omni](https://www.producthunt.com/products/qwen3/launches/qwen3-omni) | Native end-to-end multilingual omni-modal LLM | | | |
 | `15-09-25` | [tambo](https://www.producthunt.com/products/tambo) | An AI orchestration framework for React. Open-source | #5 | | |
 | `14-09-25` | [GraphBit](https://www.producthunt.com/products/graphbit) | Rust-core, Python-first Agentic AI framework | #2 | | |
-| `-09-25` | []() |  | | | |
+| `10-09-25` | [ROMA](https://www.producthunt.com/products/roma) | The backbone for open-source meta-agents | | | |
 | `-09-25` | []() |  | | | |
 | `-09-25` | []() |  | | | |
 | `-09-25` | []() |  | | | ||
