@@ -118,8 +118,8 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `15-09-25` | [tambo](https://www.producthunt.com/products/tambo) | An AI orchestration framework for React. Open-source | #5 | | |
 | `14-09-25` | [GraphBit](https://www.producthunt.com/products/graphbit) | Rust-core, Python-first Agentic AI framework | #2 | | |
 | `10-09-25` | [ROMA](https://www.producthunt.com/products/roma) | The backbone for open-source meta-agents | | | |
-| `-09-25` | []() |  | | | |
-| `-09-25` | []() |  | | | |
+| `09-09-25` | [Gram by Speakeasy](https://www.producthunt.com/products/speakeasy-3/launches/gram-by-speakeasy-2) | Instantly create MCP servers and SDKs that LLMs understand | #5 | | |
+| `09-09-25` | []() |  | | | |
 | `-09-25` | []() |  | | | ||
 | `-09-25` | []() |  | | | |
 | `-09-25` | []() |  | | | |
