@@ -121,7 +121,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `09-09-25` | [Gram by Speakeasy](https://www.producthunt.com/products/speakeasy-3/launches/gram-by-speakeasy-2) | Instantly create MCP servers and SDKs that LLMs understand | #5 | | |
 | `09-09-25` | [MiniCPM 4.1](https://www.producthunt.com/products/minicpm-4-0/launches/minicpm-4-1) | The on-device model for your personal data | | | |
 | `31-08-25` | [UTCP Agent](https://www.producthunt.com/products/utcp/launches/utcp-agent) | Build tool-calling agents in 4 lines of code | | | ||
-| `-08-25` | []() |  | | | |
+| `29-08-25` | [KushoAI](https://www.producthunt.com/products/kushoai/launches/kushoai-5) | Open-source AI tester that lives in your CLI | | | |
 | `-08-25` | []() |  | | | |
 | `-08-25` | []() |  | | | |
 | `-08-25` | []() |  | | | |
