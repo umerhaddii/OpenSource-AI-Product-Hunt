@@ -123,7 +123,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `31-08-25` | [UTCP Agent](https://www.producthunt.com/products/utcp/launches/utcp-agent) | Build tool-calling agents in 4 lines of code | | | ||
 | `29-08-25` | [KushoAI](https://www.producthunt.com/products/kushoai/launches/kushoai-5) | Open-source AI tester that lives in your CLI | | | |
 | `28-08-25` | [Qwen Chat](https://www.producthunt.com/products/qwq-max/launches/qwen-chat-3) | Qwen Chat Now Reads Web Pages | | | |
-| `-08-25` | []() |  | | | |
+| `26-08-25` | [MCP Builder](https://www.producthunt.com/products/mcp-engine-by-ag2-ai/launches/mcp-builder) | Instantly create & deploy MCP servers from any API spec | | | |
 | `-08-25` | []() |  | | | |
 | `-08-25` | []() |  | | | |
 | `-08-25` | []() |  | | | |
