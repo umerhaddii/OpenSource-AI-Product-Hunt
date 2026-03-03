@@ -126,7 +126,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `26-08-25` | [MCP Builder](https://www.producthunt.com/products/mcp-engine-by-ag2-ai/launches/mcp-builder) | Instantly create & deploy MCP servers from any API spec | | | |
 | `25-08-25` | [TraceRoot.AI](https://www.producthunt.com/products/traceroot-ai) | Fix bugs faster with open source, AI native observability | #3 | | |
 | `25-08-25` | [Onlook for Web](https://www.producthunt.com/products/onlook-2/launches/onlook-for-web) | Open source Cursor for designers | #4 | | |
-| `25-08-25` | []() |  | | | |
+| `25-08-25` | [AI Elements by Vercel](https://www.producthunt.com/products/vercel/launches/ai-elements-by-vercel) | The shadcn/ui component library for building AI-native apps | #5 | | |
 | `25-08-25` | []() |  | | | |
 | `-08-25` | []() |  | | | |
 | `-08-25` | []() |  | | | |
