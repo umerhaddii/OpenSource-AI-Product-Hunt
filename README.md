@@ -122,7 +122,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `09-09-25` | [MiniCPM 4.1](https://www.producthunt.com/products/minicpm-4-0/launches/minicpm-4-1) | The on-device model for your personal data | | | |
 | `31-08-25` | [UTCP Agent](https://www.producthunt.com/products/utcp/launches/utcp-agent) | Build tool-calling agents in 4 lines of code | | | ||
 | `29-08-25` | [KushoAI](https://www.producthunt.com/products/kushoai/launches/kushoai-5) | Open-source AI tester that lives in your CLI | | | |
-| `-08-25` | []() |  | | | |
+| `28-08-25` | [Qwen Chat](https://www.producthunt.com/products/qwq-max/launches/qwen-chat-3) | Qwen Chat Now Reads Web Pages | | | |
 | `-08-25` | []() |  | | | |
 | `-08-25` | []() |  | | | |
 | `-08-25` | []() |  | | | |
