@@ -124,10 +124,19 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `29-08-25` | [KushoAI](https://www.producthunt.com/products/kushoai/launches/kushoai-5) | Open-source AI tester that lives in your CLI | | | |
 | `28-08-25` | [Qwen Chat](https://www.producthunt.com/products/qwq-max/launches/qwen-chat-3) | Qwen Chat Now Reads Web Pages | | | |
 | `26-08-25` | [MCP Builder](https://www.producthunt.com/products/mcp-engine-by-ag2-ai/launches/mcp-builder) | Instantly create & deploy MCP servers from any API spec | | | |
-| `25-08-25` | [TraceRoot.AI](https://www.producthunt.com/products/traceroot-ai) | Fix bugs faster with open source, AI native observability | | | |
+| `25-08-25` | [TraceRoot.AI](https://www.producthunt.com/products/traceroot-ai) | Fix bugs faster with open source, AI native observability | #3 | | |
+| `25-08-25` | [Onlook for Web](https://www.producthunt.com/products/onlook-2/launches/onlook-for-web) | Open source Cursor for designers | #4 | | |
 | `25-08-25` | []() |  | | | |
 | `25-08-25` | []() |  | | | |
-| `25-08-25` | []() |  | | | |
-
+| `-08-25` | []() |  | | | |
+| `-08-25` | []() |  | | | |
+| `-08-25` | []() |  | | | |
+| `-08-25` | []() |  | | | |
+| `-08-25` | []() |  | | | |
+| `-08-25` | []() |  | | | |
+| `-08-25` | []() |  | | | |
+| `-08-25` | []() |  | | | |
+| `-08-25` | []() |  | | | |
+| `-08-25` | []() |  | | | |
 
 > Want to Contribute? See here: [CONTRIBUTING.md](https://github.com/umerhaddii/OpenSource-AI-Product-Hunt/blob/main/CONTRIBUTING.md)
