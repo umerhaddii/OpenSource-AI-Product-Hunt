@@ -28,6 +28,8 @@ This repository tracks high-quality, open-source AI tools for developers discove
 
 | Launch date | Product                                                                                                          | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -- | -- | -- |
+| `03-03-26` | [Qwen3.5 Small](https://www.producthunt.com/products/qwen3/launches/qwen3-5-small) | 0.8B-9B native multimodal w/ more intelligence, less compute | #2 | | |
+| `03-03-26` | []() |  | | | |
 | `27-02-26` | [IronClaw](https://www.producthunt.com/products/ironclaw)  | Secure, open-source alternative to OpenClaw  |  |  |  |
 | `19-02-26` | [Mengram](https://www.producthunt.com/products/mengram)  | AI memory API with 3 types: facts, events, and workflows  |  |  |  |
 | `19-02-26` | [Kollect Voice Agent](https://www.producthunt.com/products/kollect-voice-agent)  | AI that feels human  |  |  |  |
