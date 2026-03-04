@@ -131,7 +131,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `25-08-25` | [AI Elements by Vercel](https://www.producthunt.com/products/vercel/launches/ai-elements-by-vercel) | The shadcn/ui component library for building AI-native apps | #5 | | |
 | `25-08-25` | [Command A Reasoning](https://www.producthunt.com/products/cohere-2/launches/command-a-reasoning) | Enterprise-grade control for AI agents | | | |
 | `24-08-25` | [Grok 2.5 (OSS Ver.)](https://www.producthunt.com/products/grok-2-5-oss-ver) | 2024 best model from xAI, now open source | #3 | | |
-| `-08-25` | []() |  | | | |
+| `22-08-25` | [Omnara](https://www.producthunt.com/products/omnara) | Claude Code in your Pocket | #1 | | |
 | `-08-25` | []() |  | | | |
 | `-08-25` | []() |  | | | |
 | `-08-25` | []() |  | | | |
