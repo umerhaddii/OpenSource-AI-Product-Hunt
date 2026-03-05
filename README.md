@@ -1,4 +1,4 @@
-#  Opensource AI ProductHunt
+#  Open Source AI Product Hunt
 
 <img width="1303" height="489" alt="opensource ai product hunt" src="https://github.com/user-attachments/assets/ea2d6a81-fbb5-4c06-a98d-7e8695c586e4" />
 
