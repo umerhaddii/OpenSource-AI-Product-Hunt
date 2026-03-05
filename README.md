@@ -137,6 +137,9 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `13-08-25` | [mcp-use](https://www.producthunt.com/products/mcp-use) | Open source SDK and infra for MCP servers & agents | #2 | | |
 | `13-08-25` | [VibeKit CLI](https://www.producthunt.com/products/vibekit/launches/vibekit-cli) | The safety layer for your coding agent | | | |
 | `08-08-25` | [SelfHostLLM](https://www.producthunt.com/products/selfhostllm) | Calculate the GPU memory you need for LLM inference | | | |
+| `06-08-25` | [Bifrost](https://www.producthunt.com/products/maxim-ai/launches/bifrost-2) | The fastest LLM gateway in the market | #3 | | |
+| `06-08-25` | []() |  | | | |
+| `-08-25` | []() |  | | | |
 | `-08-25` | []() |  | | | |
 | `-08-25` | []() |  | | | |
 | `-08-25` | []() |  | | | |
