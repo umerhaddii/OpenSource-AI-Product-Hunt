@@ -136,7 +136,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `21-08-25` | [AGENTS.md](https://www.producthunt.com/products/openai/launches/agents-md) | A README, but for your AI coding agent | | | |
 | `13-08-25` | [mcp-use](https://www.producthunt.com/products/mcp-use) | Open source SDK and infra for MCP servers & agents | #2 | | |
 | `13-08-25` | [VibeKit CLI](https://www.producthunt.com/products/vibekit/launches/vibekit-cli) | The safety layer for your coding agent | | | |
-| `-08-25` | []() |  | | | |
+| `08-08-25` | [SelfHostLLM](https://www.producthunt.com/products/selfhostllm) | Calculate the GPU memory you need for LLM inference | | | |
 | `-08-25` | []() |  | | | |
 | `-08-25` | []() |  | | | |
 | `-08-25` | []() |  | | | |
