@@ -139,7 +139,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `08-08-25` | [SelfHostLLM](https://www.producthunt.com/products/selfhostllm) | Calculate the GPU memory you need for LLM inference | | | |
 | `06-08-25` | [Bifrost](https://www.producthunt.com/products/maxim-ai/launches/bifrost-2) | The fastest LLM gateway in the market | #3 | | |
 | `06-08-25` | [OpenAI Open Models](https://www.producthunt.com/products/openai/launches/openai-open-models) | gpt-oss-120b and gpt-oss-20b open-weight language models | #6 | | |
-| `-08-25` | []() |  | | | |
+| `05-08-25` | [Qwen-Image](https://www.producthunt.com/products/qwen3/launches/qwen-image-2) | Stunning images and perfect text | | | |
 | `-08-25` | []() |  | | | |
 | `-08-25` | []() |  | | | |
 | `-08-25` | []() |  | | | |
