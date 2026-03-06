@@ -141,7 +141,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `06-08-25` | [OpenAI Open Models](https://www.producthunt.com/products/openai/launches/openai-open-models) | gpt-oss-120b and gpt-oss-20b open-weight language models | #6 | | |
 | `05-08-25` | [Qwen-Image](https://www.producthunt.com/products/qwen3/launches/qwen-image-2) | Stunning images and perfect text | | | |
 | `04-08-25` | [Hierarchical Reasoning Model](https://www.producthunt.com/products/hierarchical-reasoning-model) | Brain-inspired, multi-level reasoning & planning AI model | | | |
-| `-08-25` | []() |  | | | |
+| `03-08-25` | [Cipher by Byterover](https://www.producthunt.com/products/byterover/launches/cipher-by-byterover) | Open-source, shared memory for coding agents | #3 | | |
 | `-08-25` | []() |  | | | |
 
 > Want to Contribute? See here: [CONTRIBUTING.md](https://github.com/umerhaddii/OpenSource-AI-Product-Hunt/blob/main/CONTRIBUTING.md)
