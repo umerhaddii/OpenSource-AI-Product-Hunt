@@ -13,7 +13,10 @@ This repository tracks high-quality, open-source AI tools for developers discove
 - ✅ Tagged as "OpenSpurce, AI & Developer Tools"
 - ✅ AI-focused or AI-enhanced
 
-> ### **Product Hunt Launch Guide**
+### **[Product Hunt Launch Guide]()**
+
+> Want to Contribute? See here: [CONTRIBUTING.md](https://github.com/umerhaddii/OpenSource-AI-Product-Hunt/blob/main/CONTRIBUTING.md)
+
 
 ## Tools by Date
 
@@ -156,4 +159,4 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `-07-25` | []() |  | | | |
 
 
-> Want to Contribute? See here: [CONTRIBUTING.md](https://github.com/umerhaddii/OpenSource-AI-Product-Hunt/blob/main/CONTRIBUTING.md)
+
