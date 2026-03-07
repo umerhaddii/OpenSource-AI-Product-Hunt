@@ -20,8 +20,6 @@ This repository tracks high-quality, open-source AI tools for developers discove
 
 ### **Glossary**
 
----
-
 - `POTD` = Product of the Day
 - `POTW` = Product of the Week
 - `POTM` = Product of the Month
