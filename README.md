@@ -13,8 +13,9 @@ This repository tracks high-quality, open-source AI tools for developers discove
 - ✅ Tagged as "OpenSpurce, AI & Developer Tools"
 - ✅ AI-focused or AI-enhanced
 
-## Tools by Date
+> ### **Product Hunt Launch Guide**
 
+## Tools by Date
 
 *Coming soon - check back for updates!*
 
