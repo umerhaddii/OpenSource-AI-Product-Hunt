@@ -24,7 +24,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 - `POTW` = Product of the Week
 - `POTM` = Product of the Month
 
----
+-----
 
 | Launch date | Product                                                                                                          | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -- | -- | -- |
