@@ -18,9 +18,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 **Want to Contribute? See here: [CONTRIBUTING.md](https://github.com/umerhaddii/OpenSource-AI-Product-Hunt/blob/main/CONTRIBUTING.md)**
 
 
-## Tools by Date
-
-*Coming soon - check back for updates!*
+### **Glossary**
 
 ---
 
