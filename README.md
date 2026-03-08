@@ -150,7 +150,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `31-07-25` | [GLM-4.5](https://www.producthunt.com/products/z-ai/launches/glm-4-5) | Unifying agentic capabilities in one open model | #5 | | |
 | `31-07-25` | [Temporal + OpenAI Agents SDK](https://www.producthunt.com/products/temporal/launches/temporal-openai-agents-sdk) | Build production-ready agents, fast | | | |
 | `30-07-25` | [OpenWhispr](https://www.producthunt.com/products/openwispr-open-source-ai-speech-to-text) | 100% local open source AI speech-to-text model | | | |
-| `30-07-25` | []() |  | | | |
+| `30-07-25` | [ClueoMCP](https://www.producthunt.com/products/clueomcp) | The open protocol for AI personality injection | | | |
 | `-07-25` | []() |  | | | |
 | `-07-25` | []() |  | | | |
 | `-07-25` | []() |  | | | |
