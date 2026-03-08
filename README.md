@@ -151,7 +151,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `31-07-25` | [Temporal + OpenAI Agents SDK](https://www.producthunt.com/products/temporal/launches/temporal-openai-agents-sdk) | Build production-ready agents, fast | | | |
 | `30-07-25` | [OpenWhispr](https://www.producthunt.com/products/openwispr-open-source-ai-speech-to-text) | 100% local open source AI speech-to-text model | | | |
 | `30-07-25` | [ClueoMCP](https://www.producthunt.com/products/clueomcp) | The open protocol for AI personality injection | | | |
-| `-07-25` | []() |  | | | |
+| `29-07-25` | [Wan 2.2](https://www.producthunt.com/products/wan-2-2/launches/wan-2-2) | The first open MoE model for AI video generation | | | |
 | `-07-25` | []() |  | | | |
 | `-07-25` | []() |  | | | |
 | `-07-25` | []() |  | | | |
