@@ -146,9 +146,9 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `04-08-25` | [Hierarchical Reasoning Model](https://www.producthunt.com/products/hierarchical-reasoning-model) | Brain-inspired, multi-level reasoning & planning AI model | | | |
 | `03-08-25` | [Cipher by Byterover](https://www.producthunt.com/products/byterover/launches/cipher-by-byterover) | Open-source, shared memory for coding agents | #3 | | |
 | `01-08-25` | [AI SDK 5 by Vercel](https://www.producthunt.com/products/vercel/launches/ai-sdk-5-by-vercel) | The AI toolkit for TypeScript | | | |
-| `-07-25` | []() |  | | | |
-| `-07-25` | []() |  | | | |
-| `-07-25` | []() |  | | | |
+| `31-07-25` | [Sparrow](https://www.producthunt.com/products/sparrow-4/launches/sparrow-9) | The lightest and fastest platform for API testing | #4 | | |
+| `31-07-25` | []() |  | | | |
+| `31-07-25` | []() |  | | | |
 | `-07-25` | []() |  | | | |
 | `-07-25` | []() |  | | | |
 | `-07-25` | []() |  | | | |
