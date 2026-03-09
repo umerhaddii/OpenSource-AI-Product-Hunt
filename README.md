@@ -152,10 +152,20 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `30-07-25` | [OpenWhispr](https://www.producthunt.com/products/openwispr-open-source-ai-speech-to-text) | 100% local open source AI speech-to-text model | | | |
 | `30-07-25` | [ClueoMCP](https://www.producthunt.com/products/clueomcp) | The open protocol for AI personality injection | | | |
 | `29-07-25` | [Wan 2.2](https://www.producthunt.com/products/wan-2-2/launches/wan-2-2) | The first open MoE model for AI video generation | | | |
+| `27-07-25` | [HunyuanWorld 1.0](https://www.producthunt.com/products/hunyuanworld-1-0/launches/hunyuanworld-1-0) | From a word or image to an explorable 3D scene | | | |
 | `-07-25` | []() |  | | | |
 | `-07-25` | []() |  | | | |
 | `-07-25` | []() |  | | | |
 | `-07-25` | []() |  | | | |
-
-
+| `-07-25` | []() |  | | | |
+| `-07-25` | []() |  | | | |
+| `-07-25` | []() |  | | | |
+| `-07-25` | []() |  | | | |
+| `-07-25` | []() |  | | | |
+| `-07-25` | []() |  | | | |
+| `-07-25` | []() |  | | | |
+| `-07-25` | []() |  | | | |
+| `-07-25` | []() |  | | | |
+| `-07-25` | []() |  | | | |
+| `-07-25` | []() |  | | | |
 
