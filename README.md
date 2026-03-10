@@ -157,7 +157,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `26-07-25` | [Qwen3-235B-A22B-Thinking-2507](https://www.producthunt.com/products/qwen3/launches/qwen3-235b-a22b-thinking-2507) | Qwen's most advanced reasoning model yet | #4 | | |
 | `23-07-25` | [Qwen3-Coder](https://www.producthunt.com/products/qwen3/launches/qwen3-coder) | A powerful open model for agentic coding tasks | #5 | | |
 | `21-07-25` | [ComfyUI-Copilot](https://www.producthunt.com/products/comfyui-copilot) | Build ComfyUI workflows with natural language | | | |
-| `-07-25` | []() |  | | | |
+| `17-07-25` | [UTCP](https://www.producthunt.com/products/utcp/launches/utcp) | The open, direct alternative to MCP for tool calling | | | |
 | `-07-25` | []() |  | | | |
 | `-07-25` | []() |  | | | |
 | `-07-25` | []() |  | | | |
