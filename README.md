@@ -159,7 +159,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `21-07-25` | [ComfyUI-Copilot](https://www.producthunt.com/products/comfyui-copilot) | Build ComfyUI workflows with natural language | | | |
 | `17-07-25` | [UTCP](https://www.producthunt.com/products/utcp/launches/utcp) | The open, direct alternative to MCP for tool calling | | | |
 | `16-07-25` | [Voxtral](https://www.producthunt.com/products/mistral-7b/launches/voxtral) | Frontier open source speech understanding models | | | |
-| `-07-25` | []() |  | | | |
+| `15-07-25` | [AI Voice Agent SDK](https://www.producthunt.com/products/video-sdk/launches/ai-voice-agent-sdk) | The open-source framework for real-time AI voice | | | |
 | `-07-25` | []() |  | | | |
 | `-07-25` | []() |  | | | |
 | `-07-25` | []() |  | | | |
