@@ -31,6 +31,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 
 | Launch date | Product                                                                                                          | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -- | -- | -- |
+| `09-03-26` | [Phi-4-reasoning-vision](https://www.producthunt.com/products/phi-4-reasoning/launches/phi-4-reasoning-vision) | Open-weight 15B multimodal model for thinking and GUI agents | | | |
 | `03-03-26` | [Qwen3.5 Small](https://www.producthunt.com/products/qwen3/launches/qwen3-5-small) | 0.8B-9B native multimodal w/ more intelligence, less compute | #2 | | |
 | `03-03-26` | [Skyvern MCP & Skills](https://www.producthunt.com/products/skyvern/launches/skyvern-mcp-skills) | Let Claude code and Open Claw automate the web | | | |
 | `27-02-26` | [IronClaw](https://www.producthunt.com/products/ironclaw)  | Secure, open-source alternative to OpenClaw  |  |  |  |
