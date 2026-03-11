@@ -160,7 +160,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `17-07-25` | [UTCP](https://www.producthunt.com/products/utcp/launches/utcp) | The open, direct alternative to MCP for tool calling | | | |
 | `16-07-25` | [Voxtral](https://www.producthunt.com/products/mistral-7b/launches/voxtral) | Frontier open source speech understanding models | | | |
 | `15-07-25` | [AI Voice Agent SDK](https://www.producthunt.com/products/video-sdk/launches/ai-voice-agent-sdk) | The open-source framework for real-time AI voice | | | |
-| `-07-25` | []() |  | | | |
+| `13-07-25` | [Kimi K2](https://www.producthunt.com/products/kimi-ai-assistant/launches/kimi-k2-2) | The 1T parameter open model for agentic intelligence | | | |
 | `-07-25` | []() |  | | | |
 | `-07-25` | []() |  | | | |
 | `-07-25` | []() |  | | | |
