@@ -162,7 +162,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `15-07-25` | [AI Voice Agent SDK](https://www.producthunt.com/products/video-sdk/launches/ai-voice-agent-sdk) | The open-source framework for real-time AI voice | | | |
 | `13-07-25` | [Kimi K2](https://www.producthunt.com/products/kimi-ai-assistant/launches/kimi-k2-2) | The 1T parameter open model for agentic intelligence | #3 | | |
 | `11-07-25` | [Intervo](https://www.producthunt.com/products/intervo) | The open-source platform for conversational AI | #1 | #4 | |
-| `11-07-25` | []() |  | | | |
+| `11-07-25` | [opencode](https://www.producthunt.com/products/opencode/launches/opencode) | Your terminal's AI agent, with any model you want | #3 | | |
 | `-07-25` | []() |  | | | |
 | `-07-25` | []() |  | | | |
 | `-07-25` | []() |  | | | |
