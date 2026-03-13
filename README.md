@@ -164,7 +164,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `11-07-25` | [Intervo](https://www.producthunt.com/products/intervo) | The open-source platform for conversational AI | #1 | #4 | |
 | `11-07-25` | [opencode](https://www.producthunt.com/products/opencode/launches/opencode) | Your terminal's AI agent, with any model you want | #3 | | |
 | `10-07-25` | [Reachy Mini](https://www.producthunt.com/products/hugging-face/launches/reachy-mini) | A new open-source robot for your desk | | | |
-| `-07-25` | []() |  | | | |
+| `08-07-25` | [xmcp](https://www.producthunt.com/products/xmcp) | The framework for building & shipping MCP applications | #5 | | |
 | `-07-25` | []() |  | | | |
 | `-07-25` | []() |  | | | |
 | `-07-25` | []() |  | | | |
