@@ -167,7 +167,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `08-07-25` | [xmcp](https://www.producthunt.com/products/xmcp) | The framework for building & shipping MCP applications | #5 | | |
 | `07-07-25` | [TensorBlock Forge](https://www.producthunt.com/products/tensorblock-forge) | One API for all AI models | #1 | | |
 | `07-07-25` | [OneNode](https://www.producthunt.com/products/onenode) | Simplest backend for AI coding - Open source | | | |
-| `-07-25` | []() |  | | | |
+| `03-07-25` | [LLM Gateway](https://www.producthunt.com/products/llm-gateway) | Use any AI model with just one API | #3 | | |
 | `-07-25` | []() |  | | | |
 | `-07-25` | []() |  | | | |
 | `-07-25` | []() |  | | | |
