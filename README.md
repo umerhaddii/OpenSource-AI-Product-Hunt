@@ -165,7 +165,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `11-07-25` | [opencode](https://www.producthunt.com/products/opencode/launches/opencode) | Your terminal's AI agent, with any model you want | #3 | | |
 | `10-07-25` | [Reachy Mini](https://www.producthunt.com/products/hugging-face/launches/reachy-mini) | A new open-source robot for your desk | | | |
 | `08-07-25` | [xmcp](https://www.producthunt.com/products/xmcp) | The framework for building & shipping MCP applications | #5 | | |
-| `-07-25` | []() |  | | | |
+| `07-07-25` | [TensorBlock Forge](https://www.producthunt.com/products/tensorblock-forge) | One API for all AI models | #1 | | |
 | `-07-25` | []() |  | | | |
 | `-07-25` | []() |  | | | |
 | `-07-25` | []() |  | | | |
