@@ -168,9 +168,9 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `07-07-25` | [TensorBlock Forge](https://www.producthunt.com/products/tensorblock-forge) | One API for all AI models | #1 | | |
 | `07-07-25` | [OneNode](https://www.producthunt.com/products/onenode) | Simplest backend for AI coding - Open source | | | |
 | `03-07-25` | [LLM Gateway](https://www.producthunt.com/products/llm-gateway) | Use any AI model with just one API | #3 | | |
-| `-07-25` | []() |  | | | |
-| `-07-25` | []() |  | | | |
-| `-07-25` | []() |  | | | |
+| `01-07-25` | [Handit.ai](https://www.producthunt.com/products/handit-ai) | The open-source engine that auto-improves your AI agents | #3 | | |
+| `-06-25` | []() |  | | | |
+| `-06-25` | []() |  | | | |
 | `-06-25` | []() |  | | | |
 | `-06-25` | []() |  | | | |
 | `-06-25` | []() |  | | | |
