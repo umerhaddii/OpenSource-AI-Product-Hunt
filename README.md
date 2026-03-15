@@ -170,7 +170,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `03-07-25` | [LLM Gateway](https://www.producthunt.com/products/llm-gateway) | Use any AI model with just one API | #3 | | |
 | `01-07-25` | [Handit.ai](https://www.producthunt.com/products/handit-ai) | The open-source engine that auto-improves your AI agents | #3 | | |
 | `27-06-25` | [Dyad](https://www.producthunt.com/products/dyad-free-local-vibe-coding-tool) | Free, local, open-source alternative to Lovable / v0 / Bolt | #1 | | |
-| `27-06-25` | []() |  | | | |
+| `27-06-25` | [FLUX.1 Kontext](https://www.producthunt.com/products/flux-1-kontext-4/launches/flux-1-kontext-4) | Powerful In-context AI image editing, now open source | #5 | | |
 | `27-06-25` | []() |  | | | |
 | `-06-25` | []() |  | | | |
 | `-06-25` | []() |  | | | |
