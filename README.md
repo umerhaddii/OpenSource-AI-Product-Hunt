@@ -183,7 +183,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `09-06-25` | [Kling 2.1](https://www.producthunt.com/products/kling-ai-4/launches/kling-2-1) | KlingAI's latest AI model series | #2 | | |
 | `09-06-25` | [VibeKit](https://www.producthunt.com/products/vibekit/launches/vibekit) | Run coding agents in a secure sandbox | | | |
 | `09-06-25` | [MiniCPM 4.0](https://www.producthunt.com/products/minicpm-4-0/launches/minicpm-4-0) | Ultra-efficient on-device AI, now even faster | | | |
-| `-06-25` | []() |  | | | |
+| `06-06-25` | [SmolVLA](https://www.producthunt.com/products/hugging-face/launches/smolvla) | Powerful robotics VLA that runs on consumer hardware | | | |
 | `-06-25` | []() |  | | | |
 | `-06-25` | []() |  | | | |
 | `-06-25` | []() |  | | | |
