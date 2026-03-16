@@ -179,7 +179,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `13-06-25` | [V-JEPA 2](https://www.producthunt.com/products/meta/launches/v-jepa-2) | Meta's world model for physical world understanding | | | |
 | `12-06-25` | [Hugging Face AISheets](https://www.producthunt.com/products/hugging-face/launches/hugging-face-aisheets) | AI-powered spreadsheets for everyone | | | |
 | `11-06-25` | [Magistral](https://www.producthunt.com/products/mistral-7b/launches/magistral) | The first reasoning model by Mistral AI | | | |
-| `11-06-25` | []() |  | | | |
+| `11-06-25` | [Kodosumi](https://www.producthunt.com/products/kodosumi/launches/kodosumi) | Runtime environment to execute agentic services at scale | | | |
 | `-06-25` | []() |  | | | |
 | `-06-25` | []() |  | | | |
 | `-06-25` | []() |  | | | |
