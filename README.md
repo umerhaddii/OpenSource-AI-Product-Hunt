@@ -181,7 +181,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `11-06-25` | [Magistral](https://www.producthunt.com/products/mistral-7b/launches/magistral) | The first reasoning model by Mistral AI | | | |
 | `11-06-25` | [Kodosumi](https://www.producthunt.com/products/kodosumi/launches/kodosumi) | Runtime environment to execute agentic services at scale | | | |
 | `09-06-25` | [Kling 2.1](https://www.producthunt.com/products/kling-ai-4/launches/kling-2-1) | KlingAI's latest AI model series | #2 | | |
-| `09-06-25` | []() |  | | | |
+| `09-06-25` | [VibeKit](https://www.producthunt.com/products/vibekit/launches/vibekit) | Run coding agents in a secure sandbox | | | |
 | `09-06-25` | []() |  | | | |
 | `-06-25` | []() |  | | | |
 | `-06-25` | []() |  | | | |
