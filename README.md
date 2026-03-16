@@ -172,8 +172,8 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `27-06-25` | [Dyad](https://www.producthunt.com/products/dyad-free-local-vibe-coding-tool) | Free, local, open-source alternative to Lovable / v0 / Bolt | #1 | | |
 | `27-06-25` | [FLUX.1 Kontext](https://www.producthunt.com/products/flux-1-kontext-4/launches/flux-1-kontext-4) | Powerful In-context AI image editing, now open source | #5 | | |
 | `27-06-25` | [Gemma 3n](https://www.producthunt.com/products/google-dev/launches/gemma-3n) | Run powerful multimodal AI right on your phone | | | |
-| `-06-25` | []() |  | | | |
-| `-06-25` | []() |  | | | |
+| `26-06-25` | [LangWatch Scenario - Agent Simulations](https://www.producthunt.com/products/langwatch/launches/langwatch-scenario-agent-simulations) | Agentic testing for agentic codebases | | | |
+| `26-06-25` | []() |  | | | |
 | `-06-25` | []() |  | | | |
 | `-06-25` | []() |  | | | |
 | `-06-25` | []() |  | | | |
