@@ -177,7 +177,7 @@ This repository tracks high-quality, open-source AI tools for developers discove
 | `25-06-25` | [NativeMind](https://www.producthunt.com/products/nativemind) | Your fully private, open-source, on-device AI assistant | | | |
 | `24-06-25` | [SmythOS](https://www.producthunt.com/products/smythos/launches/smythos-2) | The open source agent OS | | | |
 | `13-06-25` | [V-JEPA 2](https://www.producthunt.com/products/meta/launches/v-jepa-2) | Meta's world model for physical world understanding | | | |
-| `-06-25` | []() |  | | | |
+| `12-06-25` | [Hugging Face AISheets](https://www.producthunt.com/products/hugging-face/launches/hugging-face-aisheets) | AI-powered spreadsheets for everyone | | | |
 | `-06-25` | []() |  | | | |
 | `-06-25` | []() |  | | | |
 | `-06-25` | []() |  | | | |
